@@ -17,11 +17,11 @@ namespace _01_Restaurant_Repository
         public Menu() { }
         public Menu(int mealNumber, string mealName, string mealDescription, List<string> mealIngredients, double mealPrice)
         {
-            MealNumber = mealNumber;
-            MealName = mealName;
-            Description = mealDescription;
-            Ingredients = mealIngredients;
-            Price = mealPrice;
+            //MealNumber = mealNumber;
+           // MealName = mealName;
+            //Description = mealDescription;
+            //Ingredients = mealIngredients;
+            //Price = mealPrice;
         }
 
         
